@@ -1,6 +1,6 @@
 // Course: CMPE - 240
-// Submitted by: Harshil B Darji
-// SID: 1641035
+// Submitted by: Jay Patel
+// SID: 015216357
 
 #include "LPC17xx.h"
 #include "ssp.h"
