@@ -1,0 +1,16 @@
+3D-Cube.c:74:5:round	16	static
+3D-Cube.c:79:6:drawFastVLine	16	static
+3D-Cube.c:85:6:drawFastHLine	16	static
+3D-Cube.c:90:6:background	24	static
+3D-Cube.c:100:20:Transformation_pipeline	88	static
+3D-Cube.c:125:6:draw_coordinates	56	static
+3D-Cube.c:147:7:diff_reflection	40	static
+3D-Cube.c:163:6:fillshadow	48	static
+3D-Cube.c:181:6:fillside	80	static
+3D-Cube.c:238:10:findcolor	32	static
+3D-Cube.c:255:6:DDA_line	96	static
+3D-Cube.c:283:6:draw3dcube	216	static
+3D-Cube.c:344:7:lambda_calc	8	static
+3D-Cube.c:349:6:DrawShadow	136	static
+3D-Cube.c:395:6:draw_R	104	static
+3D-Cube.c:480:5:main	32	static
